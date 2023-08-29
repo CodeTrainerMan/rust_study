@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=D:\RUST\workspace\RUST_Study\rust40_prictice\rust_mysql_diesel_actix\target\debug\build\typenum-b091041e2245bf61\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=D:\RUST\workspace\RUST_Study\rust40_prictice\rust_mysql_diesel_actix\target\debug\build\typenum-b091041e2245bf61\out\op.rs

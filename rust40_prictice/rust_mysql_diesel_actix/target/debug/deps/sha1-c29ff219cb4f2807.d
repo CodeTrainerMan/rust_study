@@ -1,0 +1,11 @@
+D:\RUST\workspace\RUST_Study\rust40_prictice\rust_mysql_diesel_actix\target\debug\deps\sha1-c29ff219cb4f2807.rmeta: D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\lib.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\consts.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress\soft.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress\x86.rs
+
+D:\RUST\workspace\RUST_Study\rust40_prictice\rust_mysql_diesel_actix\target\debug\deps\libsha1-c29ff219cb4f2807.rlib: D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\lib.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\consts.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress\soft.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress\x86.rs
+
+D:\RUST\workspace\RUST_Study\rust40_prictice\rust_mysql_diesel_actix\target\debug\deps\sha1-c29ff219cb4f2807.d: D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\lib.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\consts.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress\soft.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress\x86.rs
+
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\lib.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\consts.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress\soft.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\sha-1-0.9.8\src\compress\x86.rs:

@@ -1,0 +1,9 @@
+D:\RUST\workspace\RUST_Study\rust40_prictice\rust_mysql_diesel_actix\target\debug\deps\futures_macro-4da27c2e1c3a13c3.dll: D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\lib.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\executor.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\join.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\select.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\stream_select.rs
+
+D:\RUST\workspace\RUST_Study\rust40_prictice\rust_mysql_diesel_actix\target\debug\deps\futures_macro-4da27c2e1c3a13c3.d: D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\lib.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\executor.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\join.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\select.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\stream_select.rs
+
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\lib.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\executor.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\join.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\select.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\futures-macro-0.3.27\src\stream_select.rs:

@@ -1,0 +1,11 @@
+D:\RUST\workspace\RUST_Study\rust40_prictice\rust_mysql_diesel_actix\target\debug\deps\actix_rt-c3a91e8c161dd489.rmeta: D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src/lib.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\arbiter.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\builder.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\runtime.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\system.rs
+
+D:\RUST\workspace\RUST_Study\rust40_prictice\rust_mysql_diesel_actix\target\debug\deps\libactix_rt-c3a91e8c161dd489.rlib: D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src/lib.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\arbiter.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\builder.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\runtime.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\system.rs
+
+D:\RUST\workspace\RUST_Study\rust40_prictice\rust_mysql_diesel_actix\target\debug\deps\actix_rt-c3a91e8c161dd489.d: D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src/lib.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\arbiter.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\builder.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\runtime.rs D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\system.rs
+
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src/lib.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\arbiter.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\builder.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\runtime.rs:
+D:\RUST\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-4f7dbcce21e258a2\actix-rt-1.1.1\src\system.rs:
